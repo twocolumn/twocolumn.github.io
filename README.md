@@ -1,9 +1,9 @@
 # twocolumn.github.io
 
-| Theme | Source | Demo | Source | Demo | Note |
-|---|---|---|---|---|---|
-| WriteOnly | https://github.com/twocolumn/WriteOnly | https://twocolumn.github.io/WriteOnly | | | Based on BlackDoc |
-| BlackDoc | https://github.com/twocolumn/BlackDoc | https://twocolumn.github.io/BlackDoc | https://github.com/karloespiritu/BlackDoc | | Based on Hyde |
-| Hyde | https://github.com/twocolumn/hyde | https://twocolumn.github.io/hyde | https://github.com/poole/hyde | https://hyde.getpoole.com/ | Based on Poole |
-| Lanyon | https://github.com/twocolumn/lanyon | https://twocolumn.github.io/lanyon | https://github.com/poole/lanyon | http://lanyon.getpoole.com/ | Based on Poole |
-| Minimal Theme | https://github.com/twocolumn/minimal | https://twocolumn.github.io/minimal | https://github.com/orderedlist/minimal | https://orderedlist.com/minimal/ | A Theme for GitHub Pages |
+| Theme | Source | Demo | Original Demo | Note |
+|---|---|---|---|---|
+| WriteOnly | [Source](https://github.com/twocolumn/WriteOnly) | [Demo](https://twocolumn.github.io/WriteOnly) | | Based on BlackDoc |
+| BlackDoc | [Source](https://github.com/twocolumn/BlackDoc) | [Demo](https://twocolumn.github.io/BlackDoc) | | Based on Hyde |
+| Hyde | [Source](https://github.com/twocolumn/hyde) | [Demo](https://twocolumn.github.io/hyde) | [Original Demo](https://hyde.getpoole.com/) | Based on Poole |
+| Lanyon | [Source](https://github.com/twocolumn/lanyon) | [Demo](https://twocolumn.github.io/lanyon) | [Original Demo](http://lanyon.getpoole.com/) | Based on Poole |
+| Minimal Theme | [Source](https://github.com/twocolumn/minimal) | [Demo](https://twocolumn.github.io/minimal) | [Original Demo](ttps://orderedlist.com/minimal/) | A Theme for GitHub Pages |
