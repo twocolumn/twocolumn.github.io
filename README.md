@@ -1,4 +1,9 @@
 # twocolumn.github.io
 
-| Name          | Source |
-| [WriteOnly]() | [https://github.com/twocolumn/WriteOnly] |
+| Theme | Source | Demo | Source | Demo | Note |
+|---|---|---|---|---|---|
+| WriteOnly | https://github.com/twocolumn/WriteOnly | https://twocolumn.github.io/WriteOnly | | | Based on BlackDoc |
+| BlackDoc | https://github.com/twocolumn/BlackDoc | https://twocolumn.github.io/BlackDoc | | | Based on Hyde |
+| Hyde | https://github.com/twocolumn/Hyde | https://twocolumn.github.io/Hyde | | | Based on Poole |
+| Lanyon | https://github.com/twocolumn/lanyon | https://twocolumn.github.io/lanyon | | | Based on Poole |
+| Minimal Theme | https://github.com/twocolumn/minimal | https://twocolumn.github.io/minimal | | | A Theme for GitHub Pages |
