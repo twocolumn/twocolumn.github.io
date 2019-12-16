@@ -1,4 +1,7 @@
-# twocolumn.github.io
+---
+title: README
+permalink: /
+---
 
 | Theme | Source | Demo | Original Demo | Note |
 |---|---|---|---|---|
