@@ -45,9 +45,9 @@ paginate:         1
 paginate_path:    '/:num'
 
 # jekyll-remote-theme
-remote_thema: esovm/minima
+#remote_thema: esovm/minima
 #remote_thema: esovm/sleek
-#remote_theme: twocolumn/WriteOnly
+remote_theme: twocolumn/WriteOnly
 
 # minima
 show_excerpts: true
