@@ -49,6 +49,7 @@ paginate_path:    '/:num'
 remote_theme: twocolumn/master
 #remote_theme: twocolumn/WriteOnly
 
+
 # minima
 show_excerpts: true
 # skin: sunrise
