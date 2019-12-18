@@ -7,6 +7,7 @@ permalink: /
 |---|---|---|---|---|
 | WriteOnly | [Source](https://github.com/twocolumn/WriteOnly) | [Demo](https://twocolumn.github.io/WriteOnly/) | | Based on [BlackDoc](https://github.com/twocolumn/BlackDoc) |
 | BlackDoc | [Source](https://github.com/twocolumn/BlackDoc) | [Demo](https://twocolumn.github.io/BlackDoc/) | | Based on [Hyde](https://github.com/twocolumn/hyde) |
+| Master | [Source](https://github.com/twocolumn/master) | [Demo](https://twocolumn.github.io/master/) |  | Based on [Hyde](https://github.com/esovm/hyde) |
 | Hyde | [Source](https://github.com/twocolumn/hyde) | [Demo](https://twocolumn.github.io/hyde/) | [Original Demo](https://hyde.getpoole.com/) | Based on [Poole](https://github.com/esovm/poole), used in [Micro.blog](https://micro.blog/) |
 | Lanyon | [Source](https://github.com/twocolumn/lanyon) | [Demo](https://twocolumn.github.io/lanyon/) | [Original Demo](http://lanyon.getpoole.com/) | Based on [Poole](https://github.com/esovm/poole) |
 | Minimal Theme | [Source](https://github.com/twocolumn/minimal) | [Demo](https://twocolumn.github.io/minimal/) | [Original Demo](https://orderedlist.com/minimal/) | A Theme for GitHub Pages |
