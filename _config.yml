@@ -37,6 +37,7 @@ jekyll-mentions:
   
 # jekyll-optional-front-matter  
 include:
+  - _pages
   - docs/CONTRIBUTING.md
   
 # jekyll-paginate
