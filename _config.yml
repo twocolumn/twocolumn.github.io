@@ -38,12 +38,12 @@ commonmark:
 # jekyll-mentions
 jekyll-mentions:
   base_url: https://twitter.com
-  
-# jekyll-optional-front-matter  
+
+# jekyll-optional-front-matter
 include:
   - _pages
   - docs/CONTRIBUTING.md
-  
+
 # jekyll-paginate
 paginate:         1
 paginate_path:    '/:num'
