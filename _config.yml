@@ -6,6 +6,10 @@ description:      "Two Column"
 url:              https://twocolumn.github.io/
 author:           kamil-adam
 
+permalink: none
+service_worker: true
+future: true
+
 plugins:
   - jekyll-avatar
   - jekyll-coffeescript
