@@ -85,7 +85,6 @@ version:          0.0.0
 
 # minima
 #show_excerpts: true
-# skin: sunrise
 
 header_pages:
   - README.md
