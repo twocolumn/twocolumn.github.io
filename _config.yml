@@ -97,13 +97,12 @@ header_pages:
 
 # SOCIAL LINKS
 social_links:
-  #  date_format: "%b %-d, %Y"
-  #  microdotblog: jekyll
-  twitter: TheKamilAdam
-  linkedin: writeonly-pl
   github:  twocolumn
+  linkedin: writeonly-pl
   facebook: WriteOnlyPL
   instagram: degustujacaistota
+  twitter: TheKamilAdam
+  #  microdotblog: jekyll
   rss: rss
   # dribbble: jekyll
   # flickr:   jekyll
