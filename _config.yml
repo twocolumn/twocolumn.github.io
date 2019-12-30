@@ -50,9 +50,9 @@ paginate_path:    '/:num'
 
 # jekyll-remote-theme
 #remote_theme: esovm/minima
-#remote_theme: esovm/sleek
-#remote_theme: twocolumn/master
-remote_theme: twocolumn/WriteOnly
+#remote_theme: defustujacaistota/defustujacaistota
+remote_theme: twocolumn/master
+#remote_theme: twocolumn/WriteOnly
 
 
 # minima
