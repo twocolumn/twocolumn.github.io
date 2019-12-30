@@ -40,7 +40,6 @@ jekyll-mentions:
 # jekyll-optional-front-matter
 include:
   - _pages
-  - docs/CONTRIBUTING.md
 
 # jekyll-paginate
 paginate:         1
@@ -55,7 +54,7 @@ remote_theme: twocolumn/WriteOnly
 # jekyll-seo-tag
 title:            Two Column
 tagline:          Two Column
-description:      "Two Column"
+description:      "Free two-column Jekyll themes"
 url:              https://twocolumn.github.io/
 author:           kamil-adam
 logo:             /assets/img/logo.jpg
