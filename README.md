@@ -5,9 +5,9 @@ permalink: /
 
 | Theme | Source | Demo | Original Demo | Note |
 |---|---|---|---|---|
-| Docter | [Source](https://github.com/twocolumn/docter) | [Demo](https://twocolumn.github.io/docter/) | | Based on [BlackDoc](https://github.com/twocolumn/BlackDoc) and [Minima](https://github.com/esovm/minima) |
+| Doctor Haskell | [Source](https://github.com/twocolumn/doctor-haskell) | [Demo](https://twocolumn.github.io/doctor-haskell/) | | Based on [BlackDoc](https://github.com/twocolumn/BlackDoc) and [Minima](https://github.com/esovm/minima) |
 | BlackDoc | [Source](https://github.com/twocolumn/BlackDoc) | [Demo](https://twocolumn.github.io/BlackDoc/) | | Based on [Hyde](https://github.com/twocolumn/hyde) |
-| Mastor | [Source](https://github.com/twocolumn/master) | [Demo](https://twocolumn.github.io/mastor/) |  | Based on [Hyde](https://github.com/twocolumn/hyde) and [Minima](https://github.com/esovm/minima) |
+| Master Rust | [Source](https://github.com/twocolumn/master-rust) | [Demo](https://twocolumn.github.io/master-rust/) |  | Based on [Hyde](https://github.com/twocolumn/hyde) and [Minima](https://github.com/esovm/minima) |
 | Hyde | [Source](https://github.com/twocolumn/hyde) | [Demo](https://twocolumn.github.io/hyde/) | [Original Demo](https://hyde.getpoole.com/) | Based on [Poole](https://github.com/esovm/poole), used in [Micro.blog](https://micro.blog/) |
 | Lanyon | [Source](https://github.com/twocolumn/lanyon) | [Demo](https://twocolumn.github.io/lanyon/) | [Original Demo](http://lanyon.getpoole.com/) | Based on [Poole](https://github.com/esovm/poole) |
 | Minimal Theme | [Source](https://github.com/twocolumn/minimal) | [Demo](https://twocolumn.github.io/minimal/) | [Original Demo](https://orderedlist.com/minimal/) | A Theme for GitHub Pages |
