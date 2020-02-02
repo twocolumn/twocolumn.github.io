@@ -48,9 +48,9 @@ paginate_path:    '/:num'
 # jekyll-remote-theme
 #remote_theme: esovm/minima
 #remote_theme: defustujacaistota/sleek
+remote_theme: twocolumn/doctor-haskell
 #remote_theme: twocolumn/master-rust
-#remote_theme: twocolumn/doctor-haskell
-remote_theme: twocolumn/minimal-mistakes
+#remote_theme: twocolumn/minimal-mistakes
 
 # jekyll-seo-tag
 title:            Two Column
