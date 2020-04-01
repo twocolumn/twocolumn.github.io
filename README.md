@@ -14,7 +14,6 @@ permalink: /
 | The Dinky theme | [Source](https://github.com/twocolumn/dinky) | [Demo](https://twocolumn.github.io/dinky/) | [Original Demo](https://pages-themes.github.io/dinky/) | A Theme for GitHub Pages |
 | The Leap day theme | [Source](https://github.com/twocolumn/leap-day) | [Demo](https://twocolumn.github.io/leap-day/) | [Original Demo](https://pages-themes.github.io/leap-day/) | A Theme for GitHub Pages |
 | Minimal Mistakes theme | [Source](https://github.com/twocolumn/minimal-mistakes) | [Demo](https://twocolumn.github.io/minimal-mistakes/) | [Original Demo](https://mmistakes.github.io/minimal-mistakes/) | A Theme with tutorial |
+| Minimal Mistakes GitHub Pages site starter | [Source](https://github.com/twocolumn/mm-github-pages-starter) | [Demo](https://twocolumn.github.io/mm-github-pages-starter/) | [Original Demo](https://mmistakes.github.io/mm-github-pages-starter/) | Minimal Mistakes GitHub Pages site starter |
 | Carte | [Source](https://github.com/twocolumn/carte) | [Demo](https://twocolumn.github.io/carte/) | [Original Demo](http://wiredcraft.github.io/carte/) | Simple Jekyll-based documentation site for APIs |
 | HCZ Material theme | [Source](https://github.com/twocolumn/hcz-jekyll-blog) | [Demo](https://twocolumn.github.io/hcz-jekyll-blog/) | [Original Demo](https://codeasashu.github.io/hcz-jekyll-blog/) | This is a simple personal material theme, best suited for personal authors, programmars, bloggers |
-
-
